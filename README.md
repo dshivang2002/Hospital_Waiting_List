@@ -16,9 +16,8 @@ This Power BI project visualizes national wait list data for hospital department
 
 ## 🖼️ Dashboard Preview
 
-Below are snapshots of the main dashboard and detailed view:
+![Main Dashboard](<Hospital MAnagement 1 png.png>)
 
-![Main Dashboard](Hospital MAnagement 1.png)
-![Detailed View](Hospital Management 2.png)
+![Detailed View](<Hospital Management 2 png.png>)
 
 --- 
