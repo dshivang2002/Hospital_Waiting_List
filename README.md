@@ -14,6 +14,9 @@ This Power BI project visualizes national wait list data for hospital department
 
 ---
 
+##Data Modelling 
+- 
+
 ## 🖼️ Dashboard Preview
 
 ![Main Dashboard](<Hospital Management 1.png>)
@@ -21,3 +24,21 @@ This Power BI project visualizes national wait list data for hospital department
 ![Detailed View](<Hospital MAnagement 2.png>)
 
 --- 
+
+# 🧭 Project Workflow
+
+
+## 1. 📊 Data Collection
+
+- Data collected from Kaggle having two table Impatient and Outpatient Data
+
+## 2. 🔧 Data Preperation 
+
+
+## 3. 📊 Data Modelling 
+
+
+## 4. 🧹 Data Cleaning 
+
+
+## 5. 🌍 Visualistion / Report Design  
