@@ -1,4 +1,4 @@
-# 🏥 Hospital Management  - Power BI Dashboard
+# 🏥 Hospital_waiting_List Analysis  - Power BI Dashboard
 This Power BI project visualizes national wait list data for hospital departments, specialties, and patient profiles over time. It supports hospital administrators and analysts in understanding trends in wait times across age groups, specialties, and care types.
 
 --- 
