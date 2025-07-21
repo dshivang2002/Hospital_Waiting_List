@@ -1,5 +1,5 @@
 # 🏥 Hospital_waiting_List Analysis  - Power BI Dashboard
-This Power BI project visualizes national wait list data for hospital departments, specialties, and patient profiles over time. It supports hospital administrators and analysts in understanding trends in wait times across age groups, specialties, and care types.
+This project presents a Power BI dashboard designed to analyze and visualize hospital waiting list data from 2018 to 2021. The system provides clear insights into the volume, trends, and distribution of patient wait times across various case types, specialties, age groups, and time bands on Median And Average Waiting list .
 
 --- 
 ## 🔍 Objective
@@ -20,9 +20,10 @@ This Power BI project visualizes national wait list data for hospital department
 
 1. Average & Median Waiting List  
 2. Current Total Wait List
-### Views Required
+### Views Required  
+
 1. Summary Page
-2 Detailed Page for Granular Analysis
+2. Detailed Page for Granular Analysis
 
 
 ---
@@ -77,8 +78,18 @@ We created some good visual that includes
 - Line Charts
 - Matrix
 
-To create visuals we created some measures , Columns and new Table such as :
+To create visuals we created some measures , Columns and new Table using Dax functions  :
 - Table to initiate Average and Median slicers
 - Cards shows the yearly waiting list .
-- 
+- Slicers that filters the data to find a specific insights
+- Bar charts to show the waiting list by time Bands
+- Line charts shows the count by Case Type 
 
+## 6. 🖼️ Conclusion 
+- A growing outpatient backlog, especially in specialties like Vascular Surgery.
+
+- A need to prioritize long-waiting age groups (65+) and high-wait departments (e.g., A&E).
+
+- The importance of monitoring time bands to avoid patients waiting over 52 weeks.
+
+- Long-term trends indicate resource strain post-2019, suggesting demand for staff/resource scaling in critical specialties.
